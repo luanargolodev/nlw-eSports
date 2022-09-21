@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "NLW e-Sports",
-    "slug": "NLW e-Sports",
+    "slug": "nlw-esports",
     "privacy": "public",
     "description": "Aplicativo desenvolvido durante a jornada NLW e-Sports",
     "version": "1.0.0",
